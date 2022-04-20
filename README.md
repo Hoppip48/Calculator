@@ -17,10 +17,10 @@ Otherwise she will give you a reward.
 There are 4 tiers of rewards and 3 pools of rewards, each tier is choosen according to the total ivs.
 Each tier has a 25% chance to get the reward of the next tier.
 
-** Tier 1: 2-5 normal rewards ** 
-** Tier 2: 1 good reward **
-** Tier 3: 2-5 good rewards **
-** Tier 4: 1 really good reward **
+**Tier 1: 2-5 normal rewards** 
+**Tier 2: 1 good reward**
+**Tier 3: 2-5 good rewards**
+**Tier 4: 1 really good reward**
 
 * 0-80 ivs 
 	* 75%
